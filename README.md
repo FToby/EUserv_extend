@@ -31,6 +31,7 @@ PASSWORD: 第一个账户密码,第二个账户密码
 2、由于Github Workflow的限制，你可能需要每两个月重新启动一下，方法是随便改下本README.md
 
 check 1
+check 2 1/15
 
 ## 参考（及本文档）
 
