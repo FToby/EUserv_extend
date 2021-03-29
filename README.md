@@ -32,7 +32,7 @@ PASSWORD: 第一个账户密码,第二个账户密码
 
 check 1
 check 2 1/15 2/4
-check 3 3/13
+check 3 3/13 check 3/29
 
 ## 参考（及本文档）
 
